@@ -1,0 +1,38 @@
+{
+  "name": "load-balancer",
+  "version": "1.0.3",
+  "description": "Load balancer for nodejs worker",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gbk/load-balancer.git"
+  },
+  "keywords": [
+    "load",
+    "balancer",
+    "worker",
+    "nodejs"
+  ],
+  "files": [
+    "lib",
+    "index.js",
+    "README.md",
+    "LICENSE"
+  ],
+  "author": "gbk <ck012345@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gbk/load-balancer/issues"
+  },
+  "homepage": "https://github.com/gbk/load-balancer#readme",
+  "devDependencies": {
+    "cssnano": "^3.6.2",
+    "mocha": "^2.5.3",
+    "postcss": "^5.0.21",
+    "should": "^9.0.0",
+    "uglify-js": "^2.6.2"
+  }
+}
