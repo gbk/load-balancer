@@ -1,6 +1,6 @@
 {
   "name": "load-balancer",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Load balancer for nodejs worker",
   "main": "index.js",
   "scripts": {
